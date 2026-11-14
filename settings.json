@@ -62,9 +62,9 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
-    "beds": true,
-    "chat": true,
+    "combat": false,
+    "beds": false,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
